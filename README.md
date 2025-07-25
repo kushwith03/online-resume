@@ -1,33 +1,52 @@
 # 📄 Online Resume (HTML Only)
 
-This repository contains my **basic online resume** built using only **HTML**.  
-It was created as part of my web development learning journey using resources from **Apna College** and **Udemy (Dr. Angela Yu's Web Dev Bootcamp)**.
+This repository contains my **basic online resume** created using only **HTML**.  
+It was built as part of my **Web Development journey** using resources from **Apna College** and **Udemy (Dr. Angela Yu's Web Dev Bootcamp)**.
 
 ---
 
 ## 🧠 Purpose
 
 To practice and demonstrate:
-- Basic HTML structure and semantic tags
-- How to create a personal resume layout in the browser
-- Hosting simple static web pages via GitHub Pages
+- Basic HTML page structure and tags
+- How to build a personal resume for the web
+- Hosting static projects using GitHub Pages
 
 ---
 
-## 📁 Contents
+## 📁 Project Structure
 
-online-resume/
-└── index.html # The complete resume in HTML format
-
+html-portfolio/
+├── index.html         # Complete HTML resume  
+├── Photo.jpg          # Profile image  
+└── screenshot.png     # Project preview image  
 
 ---
 
-## 🚧 Future Improvements
+## 🔗 Live Project
 
-- Add a CSS file for styling and layout
-- Make the layout responsive for different devices
-- Add sections like projects, skills, and social links
-- Host live version via GitHub Pages
+**Hosted on GitHub Pages**  
+🌐 [Click here to view the live resume](https://kushwith03.github.io/html-portfolio/)
+
+---
+
+## 📸 Preview
+
+> *Note: Image is scaled for better readability.*
+
+<p align="center">
+  <img src="./screenshot.png" alt="Online Resume Preview" width="600px">
+</p>
+
+---
+
+## 🚧 Future Enhancements
+
+- Add a separate CSS file for better styling  
+- Make the layout responsive for mobile and tablets  
+- Include sections like **projects**, **skills**, and **certifications**  
+- Add downloadable PDF version of the resume  
+- Improve semantic structure and accessibility  
 
 ---
 
@@ -39,5 +58,4 @@ online-resume/
 
 ---
 
-> This is a starting point in my front-end development journey. I'll continue to improve and expand it as I learn more.
-
+> 🌱 *This is one of my first HTML projects and marks the beginning of my front-end development journey. More advanced and interactive projects will follow as I grow.*
